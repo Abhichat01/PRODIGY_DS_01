@@ -1,8 +1,3 @@
 # PRODIGY_DS_01
-**Problem Statement**:<br>Given data about COVID-19 patients, write code to visualize the impact and
-analyze the trend of rate of infection and recovery as well as make predictions
-about the number of cases expected a week in future based on the current
-trends.<br>
+**Problem Statement**:<br>Given data about All Countries and economics, create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.<br>
 
-**Dataset**:<br>CSV and Excel files containing data about the number of COVID-19 confirmed
-deaths and recovered patients both around the world and in India.
