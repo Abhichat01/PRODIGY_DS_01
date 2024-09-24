@@ -1,3 +1,5 @@
-# PRODIGY_DS_01
-**Problem Statement**:<br>Given data about All Countries and economics, create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.<br>
-
+# Data Science Internship Task 1
+## Introduction
+This repository contains the code and analysis for Task 1 of my Data Science internship at Prodigy Info Tech.
+## Task Description
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
